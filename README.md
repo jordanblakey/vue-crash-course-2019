@@ -1,5 +1,7 @@
 # Vue Crash Course 2019
 
+Bootstrapping VueJS project using Vue CLI 3
+
 ```sh
 brew install node
 brew install yarn
